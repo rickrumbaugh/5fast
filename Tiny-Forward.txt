@@ -1,0 +1,3 @@
+﻿<a href="mailto:?subject=*|SUB:NEWSLETTER_NAME|*&;body=*|USER:NAME|*%20would%20like%20to%20share%20some%20cool%20content%20with%20you%
+20from%20Rick%20Rumbaugh%27s%20newsletter,%0D%0A*|SUB:NEWSLETTER_NAME|*%0D%0ASubscribe%20here:%20*|USER:URL|*%20">Forward
+to a Friend</a>
